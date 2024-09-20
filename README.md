@@ -65,6 +65,7 @@ Merging Tables: All five tables are merged to create a single unified dataset fo
 
 ### 🔍 Exploratory Data Analysis (EDA):
 **Histograms & Bar Plots:** To visualize customer and transaction distributions.
+
 **Heatmaps:** Used to explore relationships between different features.
 #### Questions Answered:
 How are customer transactions distributed across cities and branches?
