@@ -9,32 +9,44 @@ The dataset includes the following tables:
 **customer_id:** Unique identifier for each customer.
 
 **join_date:** The date the customer joined the platform.
+
 **city_id:** Identifier for the customer's city.
+
 **gender_id:** Identifier for the customer's gender.
 
 ### Genders Table:
 **gender_id:** Unique identifier for each gender.
+
 **gender_name:** The gender (e.g., male, female).
 
 ### Cities Table:
 **city_id:** Unique identifier for each city.
+
 **city_name:** The name of the city.
 
 ### Transactions Table:
 **transaction_id:** Unique identifier for each transaction.
+
 **customer_id:** The customer who performed the transaction.
+
 **transaction_date:** The date the transaction was recorded.
+
 **transaction_status:** Status of the transaction (e.g., claimed, burnt).
+
 **coupon_name:** Name of the coupon used in the transaction.
+
 **burn_date:** The date the coupon was burnt.
+
 **branch_id:** Identifier for the branch where the coupon was used.
 
 ### Branches Table:
 **branch_id:** Unique identifier for each branch.
+
 **merchant_id:** Identifier for the merchant who owns the branch.
 
 ### Merchants Table:
 **merchant_id:** Unique identifier for each merchant.
+
 **merchant_name:** Name of the merchant.
 
 ## 🏗️ Project Structure:
