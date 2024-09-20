@@ -7,6 +7,7 @@ The dataset includes the following tables:
 
 ### Customers Table:
 **customer_id:** Unique identifier for each customer.
+
 **join_date:** The date the customer joined the platform.
 **city_id:** Identifier for the customer's city.
 **gender_id:** Identifier for the customer's gender.
