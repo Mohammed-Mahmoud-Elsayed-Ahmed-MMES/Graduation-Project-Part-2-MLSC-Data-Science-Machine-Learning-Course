@@ -68,7 +68,9 @@ Merging Tables: All five tables are merged to create a single unified dataset fo
 **Heatmaps:** Used to explore relationships between different features.
 #### Questions Answered:
 How are customer transactions distributed across cities and branches?
+
 What is the distribution of transactions across merchants?
+
 How do gender and city influence customer activity?
 
 ### 🧠 Clustering and Segmentation:
