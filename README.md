@@ -76,7 +76,7 @@ Recommendations: Suggested improvements for marketing and merchant strategies ba
 ### 📝 Instructions for Running the Project:
 Clone the Repository:
 
-git clone https://github.com/your-username/ecommerce-customer-segmentation.git
+git clone [https://github.com/your-username/ecommerce-customer-segmentation.git](https://github.com/Mohammed-Mahmoud-Elsayed-Ahmed-MMES/Graduation-Project-Part-2-MLSC-Data-Science-Machine-Learning-Course.git)
 Install the Required Libraries:
 
 Run the following command to install dependencies:
