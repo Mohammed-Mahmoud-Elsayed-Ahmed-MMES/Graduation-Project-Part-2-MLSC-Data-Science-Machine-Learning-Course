@@ -52,9 +52,14 @@ The dataset includes the following tables:
 ## 🏗️ Project Structure:
 ### 📥 Import Libraries and Load Dataset:
 
-The dataset is loaded, and necessary libraries for data manipulation and visualization are imported, including:
+**The dataset** is containing multiple sheets.So, I assigned each sheet to a variable and then merged them into one variable.
+
+**Necessary libraries** for data manipulation and visualization are imported, including:
+
 pandas, numpy for data handling.
+
 matplotlib, seaborn for visualization.
+
 sklearn for machine learning models.
 
 ### 🛠️ Data Preprocessing:
